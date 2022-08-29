@@ -1,7 +1,9 @@
 ---
 image: /assets/images/logo.png
 ---
-# Sonido D'Massive DJ Services
+![](assets/img/logo.png)
+<!-- # Sonido D'Massive DJ Services -->
+
 
 You can use the [editor on GitHub](https://github.com/TimTools/timtools.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
