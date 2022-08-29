@@ -1,6 +1,3 @@
----
-image: /assets/images/logo.png
----
 ![](assets/img/logo.png)
 <!-- # Sonido D'Massive DJ Services -->
 
