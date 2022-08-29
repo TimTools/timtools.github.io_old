@@ -1,10 +1,8 @@
-![](assets/img/logo.png)
-<!-- # Sonido D'Massive DJ Services -->
+# Sonido D'Massive DJ Services
 
 
-You can use the [editor on GitHub](https://github.com/TimTools/timtools.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Sia - Cheap Thrills ft. Sean Paul (Sonido D'Massive Remix)](http://img.youtube.com/vi/qHKX_DOdOgw/0.jpg)](https://www.youtube.com/watch?v=qHKX_DOdOgw "Sia - Cheap Thrills ft. Sean Paul (Sonido D'Massive Remix)")
 
 ### Markdown
 
